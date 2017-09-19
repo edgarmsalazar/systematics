@@ -9,5 +9,6 @@ The code is organized as follows:
 - main.py is the main file.
 
 Code was running smooth over a month ago. Changes will be made to this code upon request and after testing. Changes will be made in the packages.py functions.py and subroutines.py files only. The main file is intended to be modified by the user.
+
 -----------
 Also, there is a ''How to: HEALPix'' as a reference for anyone who wants a quick introduction. I'm using healpy for Python.
