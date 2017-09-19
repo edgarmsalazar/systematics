@@ -9,4 +9,4 @@ The code is organized as follows:
 
 Code was running smooth over a month ago. Changes will be made to this code upon request and after testing. Changes will be made in the packages.py functions.py and subroutines.py files only. The main file is intended to be modified by the user.
 
-In the next days I'll be uploading a "How to guide" to use Healpix (request made by Tom a couple of weeks ago)
+Also, there is a ''How to: HEALPix'' as a reference for anyone who wants a quick introduction. I'm using healpy for Python.
