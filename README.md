@@ -12,3 +12,5 @@ Code was running smooth over a month ago. Changes will be made to this code upon
 
 -----------
 Also, there is a ''How to: HEALPix'' as a reference for anyone who wants a quick introduction. I'm using healpy for Python.
+
+Made branch
